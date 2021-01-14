@@ -1,0 +1,13 @@
+﻿Value,Name
+10,id
+ATOS-BPS-All-Users,login
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users,url
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users/events,events_url
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users/hooks,hooks_url
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users/issues,issues_url
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users/members{/member},members_url
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users/public_members{/member},public_members_url
+https://github.gsissc.myatos.net/api/v3/orgs/ATOS-BPS-All-Users/repos,repos_url
+https://github.gsissc.myatos.net/avatars/u/10?,avatar_url
+MDEyOk9yZ2FuaXphdGlvbjEw,node_id
+Virtual organization for all valid GitHub users. Please don't try to create Repositories in this organization.,description
